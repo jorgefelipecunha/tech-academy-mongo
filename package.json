@@ -1,0 +1,18 @@
+{
+    "name": "node-express",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/app.js",
+    "dependencies": {
+        "express": "^4.15.4"
+    },
+    "devDependencies": {
+        "nodemon": "^1.17.3"
+    },
+    "scripts": {
+        "start": "nodemon ./bin/server.js"
+    },
+    "keywords": [],
+    "author": "Gustavo Viais",
+    "license": ""
+}
